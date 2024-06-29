@@ -26,7 +26,7 @@ export default async function ContentBlockPage() {
               size: 'full',
               richText: [
                 {
-                  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+                  text: '',
                 },
               ],
             },
