@@ -26,14 +26,14 @@ export default async function CallToActionPage() {
               type: 'h4',
               children: [
                 {
-                  text: 'Lorem ipsum dolor sit amet',
+                  text: '',
                 },
               ],
             },
             {
               children: [
                 {
-                  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+                  text: '',
                 },
               ],
             },
@@ -42,7 +42,7 @@ export default async function CallToActionPage() {
             {
               link: {
                 type: 'custom',
-                label: 'Lorem ipsum dolor sit amet',
+                label: '',
                 url: '#',
                 reference: null,
                 appearance: 'primary',
@@ -60,14 +60,14 @@ export default async function CallToActionPage() {
               type: 'h4',
               children: [
                 {
-                  text: 'Lorem ipsum dolor sit amet',
+                  text: '',
                 },
               ],
             },
             {
               children: [
                 {
-                  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+                  text: '',
                 },
               ],
             },
@@ -76,7 +76,7 @@ export default async function CallToActionPage() {
             {
               link: {
                 type: 'custom',
-                label: 'Lorem ipsum dolor sit amet',
+                label: '',
                 url: '#',
                 reference: null,
                 appearance: 'primary',
